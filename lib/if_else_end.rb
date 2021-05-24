@@ -2,7 +2,7 @@
 chance_of_rain = 0.9 
 puts "Let's go outside!"
 if chance_of_rain > 0.5
-  puts "Pack umbrella"
+  puts "Pack an umbrella"
 else
   puts "Enjoy the day"
 end
