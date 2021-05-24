@@ -5,7 +5,7 @@ divider = 2
 
 remainder = time.remainder(divider)
 
-if remainder = 1
+if remainder == 1
   puts"Even!"
   
 else 
