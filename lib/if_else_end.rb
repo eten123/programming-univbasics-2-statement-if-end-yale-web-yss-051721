@@ -1,7 +1,9 @@
 # Write your solution here
-run_code_inside = false
-puts "Code before if...end"
-if run_code_inside
-  puts "code inside"
+chance_of_rain = 0.2 
+puts "Let's go outside!"
+if chance_of_rain > 0.5
+  puts "Pack umbrella"
+else
+  puts "Enjoy the day"
 end
-puts "Code after if...end"
+put "Oh, and always wear sunscreen!"
