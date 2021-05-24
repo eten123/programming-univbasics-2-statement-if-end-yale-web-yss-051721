@@ -2,8 +2,7 @@
 time = Time.now 
 time = time.to_i
 divider = 2
-
-remainder = time.remainder(divider)
+remainder = 
 
 if remainder == 1
   puts"Even!"
