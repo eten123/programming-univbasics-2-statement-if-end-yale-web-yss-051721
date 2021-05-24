@@ -6,4 +6,4 @@ if chance_of_rain > 0.5
 else
   puts "Enjoy the day"
 end
-put "Oh, and always wear sunscreen!"
+puts "Oh, and always wear sunscreen!"
